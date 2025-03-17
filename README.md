@@ -1,7 +1,6 @@
 ## Hi there, my name is Vincent 👋
 
-Software Engineer with 2 years of experience.<br/>  
-I like to build.<br/>  
+Software Engineer and I like to build.<br/>  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vlee20/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vlee20@protonmail.com) 
